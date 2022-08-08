@@ -1,0 +1,2 @@
+python-dotenv==0.20.0 
+metaflow=2.7.3
